@@ -13,8 +13,8 @@ import MySQLdb.cursors
 
 
 # Replace with your Text Analytics key and endpoint
-text_analytics_key = "c65fb48c6b434e549562e91aa70015e4"
-text_analytics_endpoint = "https://kruthika.cognitiveservices.azure.com/"
+text_analytics_key = ""
+text_analytics_endpoint = ""
 
 # Initialize Text Analytics client
 text_analytics_client = TextAnalyticsClient(
